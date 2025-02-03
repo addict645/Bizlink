@@ -99,4 +99,4 @@ cd sales-and-inventory-management
     python manage.py runserver
 
     
-  **Whatsapp +254791918590**
+  **Whatsapp +254704412348**
